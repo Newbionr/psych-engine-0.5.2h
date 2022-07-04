@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				25,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "VHS Luigi idle"
+		},
+		{
+			"offsets": [
+				31,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "VHS Luigi up0"
+		},
+		{
+			"offsets": [
+				20,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "VHS Luigi down0"
+		},
+		{
+			"offsets": [
+				35,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "VHS Luigi left"
+		},
+		{
+			"offsets": [
+				22,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "VHS Luigi right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vhs luigi",
+	"position": [
+		-1580,
+		2060
+	],
+	"healthicon": "vhsluigi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		80,
+		0
+	],
+	"camera_position": [
+		490,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

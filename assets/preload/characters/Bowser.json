@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				30
+			],
+			"anim": "idle",
+			"fps": 17,
+			"name": "Bowser idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				47
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bowser up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				31
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bowser down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				34
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bowser left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bowser right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bowser",
+	"position": [
+		-1920,
+		-590
+	],
+	"healthicon": "Bowser",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		160,
+		0
+	],
+	"camera_position": [
+		390,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

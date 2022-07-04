@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "64 Mario up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				38
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "64 Mario right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "64 Mario down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "64 Mario left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "64 Mario idle"
+		},
+		{
+			"offsets": [
+				7,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "64 Mario lmiss"
+		},
+		{
+			"offsets": [
+				55,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "64 Mario dmiss"
+		},
+		{
+			"offsets": [
+				31,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "64 Mario upmiss"
+		},
+		{
+			"offsets": [
+				24,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "64 Mario rmiss"
+		},
+		{
+			"offsets": [
+				26,
+				30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "64 Mario scared"
+		},
+		{
+			"offsets": [
+				29,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "64 Mario die"
+		},
+		{
+			"offsets": [
+				30,
+				12
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "64 Mario Retry?"
+		},
+		{
+			"offsets": [
+				30,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "64 Mario Retry?"
+		},
+		{
+			"offsets": [
+				70,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "64 Mario down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/64 mario",
+	"position": [
+		-1500,
+		830
+	],
+	"healthicon": "Mario",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		570,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
